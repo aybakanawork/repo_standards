@@ -1,0 +1,15 @@
+- Never make assumptions. Ask questions if requirements are unclear.
+- Think before writing code.
+- Prefer the smallest possible change.
+- Do not modify unrelated files.
+- Search the codebase before creating new functionality.
+- Reuse existing abstractions instead of duplicating logic.
+- Preserve backward compatibility unless instructed otherwise.
+- Do not introduce new dependencies without justification.
+- Do not perform architectural refactoring unless explicitly requested.
+- Keep code simple, readable, and idiomatic.
+- Follow the project's existing conventions.
+- Consider error handling and edge cases.
+- Consider security, accessibility, and performance where relevant.
+- If a proposed change increases complexity significantly, explain the tradeoffs first and wait for approval.
+- Clearly distinguish verified facts from assumptions.
