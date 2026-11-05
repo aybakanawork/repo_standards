@@ -65,6 +65,12 @@ The `03_roadmap/` folder contains three core files:
 
 ---
 
+## Investigation Documentation
+
+For standards on how to structure and maintain investigation documents, see `investigation-standards.md`.
+
+---
+
 ## Test Documentation Standard (`TEST_SUMMARY.md`)
 
 When executing tests, the agent MUST NOT dump raw CLI logs into chat. Instead, write structured test reports:
