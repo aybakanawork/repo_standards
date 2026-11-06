@@ -75,9 +75,9 @@ For standards on how to structure and maintain investigation documents, see `inv
 
 Refer to the following standard documents for specific guidelines:
 
-*   **Requirements Standard:** `docs/standards/requirements-standard.md`
-*   **Development Standard:** `docs/standards/development-standard.md`
-*   **Testing Style Guide:** `docs/standards/testing-style-guide.md`
+*   **Requirements Standard:** `requirements-standard.md`
+*   **Development Standard:** `development-standard.md`
+*   **Testing Style Guide:** `testing-style-guide.md`
 
 ---
 
